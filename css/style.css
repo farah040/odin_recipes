@@ -1,6 +1,8 @@
 body {
     background-color: #fffca7;
     font-family: tahoma, sans-serif;
+    line-height: 1.5;
+    padding: 20px;
 }
 h1 {
     font-size: 3rem;
@@ -21,4 +23,8 @@ p,
 li,
 a {
     font-size: 1.5rem;
+}
+.recipe-image {
+    margin: 0 auto;
+    display: block;
 }
